@@ -4,7 +4,7 @@ This repository contains a web application that visualizes the Particle Swarm Op
 
 ## Demo
 
-To see the PSO visualization in action, you can visit the live demo [here](https://github.io/pso-js).
+To see the PSO visualization in action, you can visit the live demo at [https://adamstirtan.github.io/pso-js/](https://adamstirtan.github.io/pso-js/).
 
 ## Features
 
